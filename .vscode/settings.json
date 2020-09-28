@@ -1,0 +1,19 @@
+{
+  
+  "vetur.experimental.templateInterpolationService": true,
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "18.231.186.238",
+      "port": 3306,
+      "askForPassword": true,
+      "driver": "MySQL",
+      "name": "blog",
+      "database": "blog",
+      "username": "root"
+    }
+  ]
+}
